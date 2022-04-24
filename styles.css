@@ -1,0 +1,10 @@
+.loginPage{
+    background-image: url(./pics/kazuend-2KXEb_8G5vo-unsplash.jpg)
+}
+.box{
+    background-color: teal;
+}
+.otherbox{
+    display: flex;
+    justify-content: flex-end;
+}
